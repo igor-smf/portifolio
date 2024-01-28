@@ -1,4 +1,4 @@
-![](igor-smf/portifolio/Igor Silva.png)
+![]([igor-smf/portifolio/Igor Silva.png](https://github.com/igor-smf/portifolio/blob/main/Igor%20Silva.png))
 
 # Portfólio de Projetos em Dados
 
