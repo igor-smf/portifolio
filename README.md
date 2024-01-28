@@ -1,5 +1,5 @@
 
-(https://www.canva.com/design/DAF7NQ7pyHY/_dBjwYs0-GgJi0d7IjNBNQ/edit?utm_content=DAF7NQ7pyHY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![](https://www.canva.com/design/DAF7NQ7pyHY/_dBjwYs0-GgJi0d7IjNBNQ/edit?utm_content=DAF7NQ7pyHY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # Portfólio de Projetos em Dados
 
