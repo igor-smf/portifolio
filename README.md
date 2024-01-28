@@ -12,7 +12,7 @@ Aqui encontrará:
 
 |    Nome do Projeto  | Notebook ou Link    | Linguagem    | Fonte de Dados  | Observação  | 
 | ------------        | ------------        | ------------ | ------------    |------------ |
-| **Análise de Indicadores** | [World Development Indicators](https://github.com/igor-smf/portifolio/blob/main/An%C3%A1lise%20de%20Indicadores/World_Development_Indicators.ipynb) | Python | data.csv | Comportamento ao longo do tempo, valores extremos e tendência central
+| **Análise de Indicadores** | [World Development Indicators](https://github.com/igor-smf/portifolio/blob/main/An%C3%A1lise%20de%20Indicadores/World_Development_Indicators.ipynb) | Python | WDIData.csv | Comportamento ao longo do tempo, valores extremos e tendência central
 | **Análise do Campeonato Brasileiro de Futebol** | [Análise do Campeonato Brasileiro de Futebol](https://app.powerbi.com/view?r=eyJrIjoiNDAzMTEzMGUtMjM3Yy00ZGFiLWIzYzMtY2NkNzQ5N2NjNWM5IiwidCI6IjQ0OTBkZmExLTAzNTMtNDY1NS1iZDE3LWRiOGNmYTlkMWIzOSJ9) | Power BI | [Kaggle](https://www.kaggle.com/datasets/adaoduque/campeonato-brasileiro-de-futebol) | Uma análise das escolas por clube e ano |
 ------------
 
