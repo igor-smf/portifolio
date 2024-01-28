@@ -28,3 +28,11 @@ Neste repositório encontrará alguns trabalhos que desenvolvi e estou desenvolv
 Aqui encontrará:
 - Projetos de BI e Microsoft Power BI
 - Projetos de Machine Learning utilizando Python
+
+- ------------
+
+|    Nome do Projeto  | Notebook ou Link    | Linguagem    | Fonte de Dados  | Observação  | 
+| ------------        | ------------        | ------------ | ------------    |------------ |
+| **Análise de Indicadores Socioeconômicos** | https://github.com/igor-smf/portifolio/blob/main/An%C3%A1lise%20de%20Indicadores/World_Development_Indicators.ipynb | Python | data.csv | criação de um algoritmo de análise de indicadores que oferece comportamento ao longo do tempo, valores extremos e tendência central
+
+------------
