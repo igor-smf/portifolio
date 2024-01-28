@@ -12,7 +12,7 @@ Aqui encontrará:
 
 |    Nome do Projeto  | Notebook ou Link    | Linguagem    | Fonte de Dados  | Observação  | 
 | ------------        | ------------        | ------------ | ------------    |------------ |
-| **Análise de Indicadores Socioeconômicos** | [World Development Indicators](https://github.com/igor-smf/portifolio/blob/main/An%C3%A1lise%20de%20Indicadores/World_Development_Indicators.ipynb) | Python | data.csv | Comportamento ao longo do tempo, valores extremos e tendência central
+| **Análise de Indicadores** | [World Development Indicators](https://github.com/igor-smf/portifolio/blob/main/An%C3%A1lise%20de%20Indicadores/World_Development_Indicators.ipynb) | Python | data.csv | Comportamento ao longo do tempo, valores extremos e tendência central
 
 ------------
 
