@@ -1,5 +1,4 @@
-![]([igor-smf/portifolio/Igor Silva.png](https://github.com/igor-smf/portifolio/blob/main/Igor%20Silva.png)
-
+<img align="center" src="https://github.com/igor-smf/portifolio/blob/main/Igor%20Silva.png" alt="igor-smf" />
 # Portfólio de Projetos em Dados
 
 Neste repositório encontrará alguns trabalhos que desenvolvi e estou desenvolvendo, onde busco através dos dados encontrar informações valiosas para a tomada de decisão.
